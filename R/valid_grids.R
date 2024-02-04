@@ -46,4 +46,4 @@
   "us_state_with_DC_PR_grid3", "in_state_ut_grid2", "at_states_grid1",
   "us_pa_counties_grid1", "us_oh_counties_grid1", "fr_departements_grid2",
   "us_wi_counties_grid1", "africa_countries_grid1", "no_counties_grid1",
-  "tr_provinces_grid1")
+  "tr_provinces_grid1", "drc_grid")
